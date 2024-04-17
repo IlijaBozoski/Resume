@@ -1,0 +1,27 @@
+#ContactDivFather{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#ContactDiv {
+  color: #dddddd;
+    font-size: xxx-large;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    margin-top: 6%;
+}
+
+
+#ContactDiv p {
+    margin: 10px 0;
+
+}
+#ContactDiv a {
+    color: #dddddd;
+    text-decoration: none;
+     margin: 10px 0;
+
+ }

@@ -1,0 +1,36 @@
+.cards-container-ex {
+
+    display: flex;
+    justify-content: space-around;
+    margin-top: 6%;
+
+}
+
+.card-education,.card-experience {
+    width: 30%;
+    padding: 20px;
+    background-image: linear-gradient(to right, #0f768a, #18779b, #399edc, rgb(128, 177, 234));
+    border-radius: 8px;
+}
+.card-education,.card-experience {
+    width: 30%;
+    padding: 20px;
+    background-image: linear-gradient(to right, #0f768a, #18779b, #399edc, rgb(128, 177, 234));
+    border-radius: 8px;
+
+}
+.card-education,.card-experience {
+
+}
+.card-education h2,.card-experience h2 {
+    margin-top: 0;
+    font-size: 20px;
+}
+
+.card-education p,.card-experience p {
+    margin: 10px 0;
+}
+.card-education:hover, .card-experience:hover {
+    border: 3px solid #0081AB;
+    transform: scale(1.3);
+}
