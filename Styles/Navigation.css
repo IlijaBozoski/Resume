@@ -1,3 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+
+    color: #ddd;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    background-image: linear-gradient(to right, #0f768a, #18779b, #399edc, rgb(128, 177, 234));
+    padding-top: 0.01em;
+    display: flex;
+    flex-direction: column;
+    height: 492vh;
+
+}
+
+section {
+    height: 98vh;
+}
+.FirstPage{
+    display: flex;
+    height: 98vh;
+    margin-bottom: 20px;
+
+
+}
+
+.AboutMe
+{
+
+    height: 98vh;
+}
+html {
+    scroll-behavior: smooth;
+}
+
+ul{
+    width: 100%;
+    list-style-type:none;
+    line-height: 3;
+
+}
+
+
+
+#EndText{
+    margin-left: 5rem;
+
+    margin-top: 2rem;
+    font-weight: bold;
+    font-size:35px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+
+    background-image: linear-gradient(45deg, #b9b926, #b4b43e, #bcec57, rgb(135, 210, 44), lightgoldenrodyellow);
+
+}
+#EndText {
+    font-weight: bold;
+
+}
+
 nav {
     position: fixed;
     top: 0;
