@@ -17,11 +17,11 @@ function startLoading(id, procent) {
 
 document.addEventListener('DOMContentLoaded', function () {
     // Start loading initially
-    startLoading(1, 80);
+    startLoading(1, 85);
 });
 document.addEventListener('DOMContentLoaded', function () {
     // Start loading initially
-    startLoading(2, 50);
+    startLoading(2, 65);
 });
 document.addEventListener('DOMContentLoaded', function () {
     // Start loading initially
@@ -29,18 +29,18 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 document.addEventListener('DOMContentLoaded', function () {
     // Start loading initially
-    startLoading(4, 75);
+    startLoading(4, 80);
 });
 document.addEventListener('DOMContentLoaded', function () {
     // Start loading initially
-    startLoading(5, 80);
+    startLoading(5, 82);
 });
 document.addEventListener('DOMContentLoaded', function () {
     // Start loading initially
-    startLoading(6, 60);
+    startLoading(6, 75);
 });
 
 document.addEventListener('DOMContentLoaded', function () {
     // Start loading initially
-    startLoading(7, 35);
+    startLoading(7, 55);
 });

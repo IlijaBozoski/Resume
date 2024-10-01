@@ -2,8 +2,26 @@
     max-height: 92rem;
     display: flex;
     flex-wrap: wrap;
-    gap: 1.5rem;
-    justify-content: space-evenly;
+    /*gap: 1.5rem;*/
+    margin-top: 3rem;
+    flex-direction: column;
+
+}
+.gorenRed
+{
+    margin-left: 3rem;
+    display: flex;
+    gap: 15px;
+    width: 100%;
+
+}
+.dolenRed
+{
+    margin-left: 3rem;
+    display: flex;
+    width: 100%;
+    gap: 15px;
+    margin-top: 3rem;
 }
 
 .Card{
@@ -131,6 +149,7 @@
 }
 .value {
     color:orangered;
+
 }
 .brace {
     color: #555;
