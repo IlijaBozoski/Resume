@@ -17,7 +17,7 @@ function startLoading(id, procent) {
 
 document.addEventListener('DOMContentLoaded', function () {
     // Start loading initially
-    startLoading(1, 85);
+    startLoading(1, 80);
 });
 document.addEventListener('DOMContentLoaded', function () {
     // Start loading initially
@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 document.addEventListener('DOMContentLoaded', function () {
     // Start loading initially
-    startLoading(3, 65);
+    startLoading(3, 75);
 });
 document.addEventListener('DOMContentLoaded', function () {
     // Start loading initially
@@ -37,10 +37,10 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 document.addEventListener('DOMContentLoaded', function () {
     // Start loading initially
-    startLoading(6, 75);
+    startLoading(6, 92);
 });
 
 document.addEventListener('DOMContentLoaded', function () {
     // Start loading initially
-    startLoading(7, 55);
+    startLoading(7, 65);
 });
