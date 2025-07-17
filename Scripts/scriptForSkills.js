@@ -33,14 +33,14 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 document.addEventListener('DOMContentLoaded', function () {
     // Start loading initially
-    startLoading(5, 82);
+    startLoading(5, 80);
 });
 document.addEventListener('DOMContentLoaded', function () {
     // Start loading initially
-    startLoading(6, 92);
+    startLoading(6, 90);
 });
 
 document.addEventListener('DOMContentLoaded', function () {
     // Start loading initially
-    startLoading(7, 65);
+    startLoading(7, 70);
 });
